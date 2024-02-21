@@ -1,0 +1,632 @@
+/* No comment provided by engineer. */
+"Always be informed if you receive money or your account has been debited." = "Sei immer informiert, wenn du Geld erhältst oder dein Konto belastet wurde.";
+
+/* (No Comment) */
+"Good Day" = "Guten Tag";
+
+/* (No Comment) */
+"Good Evening" = "Guten Abend";
+
+/* (No Comment) */
+"Good Morning" = "Guten Morgen";
+
+/* (No Comment) */
+"Good Night" = "Gute Nacht";
+
+/* (No Comment) */
+"Hello" = "Servus";
+
+/* No comment provided by engineer. */
+"Decline" = "Ablehnen";
+
+/* No comment provided by engineer. */
+"Create Admin Event" = "Admintreffen erstellen";
+
+/* No comment provided by engineer. */
+"All Transactions" = "Alle Transaktionen";
+
+/* No comment provided by engineer. */
+"Change" = "Ändern";
+
+/* No comment provided by engineer. */
+"Login" = "Anmelden";
+
+/* No comment provided by engineer. */
+"Call" = "Anrufen";
+
+/* No comment provided by engineer. */
+"Display format" = "Anzeigeformat";
+
+/* No comment provided by engineer. */
+"Tasks:" = "Aufgaben:";
+
+/* No comment provided by engineer. */
+"Top up" = "Aufladen";
+
+/* No comment provided by engineer. */
+"Create Bar Evening" = "Barabend erstellen";
+
+/* No comment provided by engineer. */
+"DESCRIPTION" = "BESCHREIBUNG";
+
+/* No comment provided by engineer. */
+"Confirm or reject planned events." = "Bestätige oder lehne geplante Veranstaltung ab.";
+
+/* No comment provided by engineer. */
+"Confirm" = "Bestätigen";
+
+/* No comment provided by engineer. */
+"Resident" = "Bewohner";
+
+/* No comment provided by engineer. */
+"Beer:" = "Bier:";
+
+/* No comment provided by engineer. */
+"The resident list can be sorted by first or last name." = "Die Bewohnerliste kann nach Vor- oder Nachname sortiert werden.";
+
+/* No comment provided by engineer. */
+"The Hochschulhaus Garching app is a heartfelt project that was brought to life by (former 🥲) residents." = "Die Hochschulhaus Garching App ist ein Herzensprojekt, welches von (ehemaligen 🥲) Bewohnern ins Leben gerufen wurde.";
+
+/* No comment provided by engineer. */
+"Printer" = "Drucker";
+
+/* No comment provided by engineer. */
+"You can add cash to your account with the following people." = "Du kannst bei folgenden Personen dein Konto mit Bargeld aufwerten.";
+
+/* No comment provided by engineer. */
+"Select recipient" = "Empfänger auswählen";
+
+/* No comment provided by engineer. */
+"Receive notifications about upcoming dorm activities." = "Erhalte Benachrichtigungen über anstehenden Wohnheimaktivitäten.";
+
+/* No comment provided by engineer. */
+"Reminder" = "Erinnerung";
+
+/* No comment provided by engineer. */
+"created by %first name%" = "erstellt von %first name%";
+
+/* No comment provided by engineer. */
+"created by %first name% %last name%" = "erstellt von %first name% %last name%";
+
+/* No comment provided by engineer. */
+"It is recommended to change the password regularly. Choosing a long and complex text increases security." = "Es wird empfohlen, das Passwort regelmäßig zu ändern. Die Wahl eines langen und komplexen Textes erhöht die Sicherheit.";
+
+/* No comment provided by engineer. */
+"If you are interested in taking over the office in an upcoming semester, feel free to contact the person(s) currently in charge." = "Falls du dich dafür interessierst das Amt in einem kommenden Semester zu übernehmen, kontaktiere gerne die aktuell dafür zuständige(n) Person(en).";
+
+/* No comment provided by engineer. */
+"For a continuous advancement, suggestions for improvement as well as talented iOS / Android developers are needed.\n\nThank you for your help!" = "Für eine fortlaufende Weiterentwicklung werden sowohl Verbesserungsvorschläge als auch talentierte iOS / Android Entwickler benötigt.\n\nVielen Dank für Eure Mithilfe!";
+
+/* No comment provided by engineer. */
+"All-day" = "Ganztägig";
+
+/* No comment provided by engineer. */
+"Send money" = "Geld senden";
+
+/* No comment provided by engineer. */
+"Devices" = "Geräte";
+
+/* No comment provided by engineer. */
+"House Speaker" = "Haussprecher";
+
+/* No comment provided by engineer. */
+"House Management" = "Hausverwaltung";
+
+/* No comment provided by engineer. */
+"Add" = "Hinzufügen";
+
+/* No comment provided by engineer. */
+"I would like to help out myself" = "Ich möchte selbst mithelfen";
+
+/* No comment provided by engineer. */
+"I would like to leave feedback" = "Ich würde gerne Feedback hinterlassen";
+
+/* No comment provided by engineer. */
+"Calendar entries" = "Kalendareinträge";
+
+/* No comment provided by engineer. */
+"Category" = "Kategorie";
+
+/* No comment provided by engineer. */
+"No day selected" = "Kein Tag ausgewählt";
+
+/* No comment provided by engineer. */
+"No entries" = "Keine Einträge";
+
+/* No comment Transaktionenprovided by engineer. */
+"Configure" = "Konfigurieren";
+
+/* No comment provided by engineer. */
+"Contact" = "Kontakt";
+
+/* No comment provided by engineer. */
+"Accounts" = "Konten";
+
+/* No comment provided by engineer. */
+"Top up account" = "Konto aufladen";
+
+/* No comment provided by engineer. */
+"Charge / debit account" = "Konto aufladen / belasten";
+
+/* No comment provided by engineer. */
+"Balance" = "Kontostand";
+
+/* No comment provided by engineer. */
+"Copy link" = "Kopiere den Link";
+
+/* No comment provided by engineer. */
+"Kitchen reservation" = "Küchenreservierung";
+
+/* No comment provided by engineer. */
+"Kitchen key" = "Küchenschlüssel";
+
+/* No comment provided by engineer. */
+"Loading" = "Laden";
+
+/* No comment provided by engineer. */
+"Last Transaction" = "Letzte Transaktion";
+
+/* No comment provided by engineer. */
+"more" = "mehr";
+
+/* No comment provided by engineer. */
+"Notifications" = "Mitteilungen";
+
+/* No comment provided by engineer. */
+"Contribution" = "Mitwirkung";
+
+/* No comment provided by engineer. */
+"Mobile" = "Mobil";
+
+/* No comment provided by engineer. */
+"Last, first name" = "Nach-, Vorname";
+
+/* No comment provided by engineer. */
+"Message" = "Nachricht";
+
+/* No comment provided by engineer. */
+"No devices yet added" = "Noch keine Geräte\nhinzugefügt";
+
+/* No comment provided by engineer. */
+"Create Official Event" = "Offizielles Event erstellen";
+
+/* No comment provided by engineer. */
+"Password" = "Passwort";
+
+/* No comment provided by engineer. */
+"Forgot password?" = "Passwort vergessen?";
+
+/* No comment provided by engineer. */
+"Always be informed when you have received money or your account has been debited." = "Sei immer informiert, wenn du Geld erhalten hast oder dein Konto belastet wurde.";
+
+/* No comment provided by engineer. */
+"If your email address has changed, you can update it here." = "Sollte sich deine Email Adresse geändert haben, kannst du sie hier aktualisieren.";
+
+/* No comment provided by engineer. */
+"If your phone number has changed, you can update it here." = "Sollte sich deine Telefonnummer geändert haben, kannst du sie hier aktualisieren.";
+
+/* No comment provided by engineer. */
+"Sorting" = "Sortierung";
+
+/* No comment provided by engineer. */
+"Save" = "Speichern";
+
+/* No comment provided by engineer. */
+"Share" = "Teilen";
+
+/* No comment provided by engineer. */
+"PARTICIPANTS" = "TEILNEHMER";
+
+/* No comment provided by engineer. */
+"Phone" = "Telefon";
+
+/* No comment provided by engineer. */
+"Transaction executed on" = "Transaktion ausgeführt am";
+
+/* No comment provided by engineer. */
+"Transaction ID: %@" = "Transaktion ID: %@";
+
+/* No comment provided by engineer. */
+"Transactions" = "Transaktionen";
+
+/* No comment provided by engineer. */
+"Create Tutor Event" = "Tutor Event erstellen";
+
+/* No comment provided by engineer. */
+"Tutors" = "Tutoren";
+
+/* No comment provided by engineer. */
+"Confirm event" = "Veranstaltung bestätigen";
+
+/* No comment provided by engineer. */
+"Events" = "Veranstaltungen";
+
+/* No comment provided by engineer. */
+"First name, last name" = "Vor-, Nachname";
+
+/* No comment provided by engineer. */
+"Show all" = "Zeige alle";
+
+/* No comment provided by engineer. */
+"To open the key box, you must be near it." = "Zum Öffnen der Schlüsselbox, musst du dich in deren Nähe befinden.";
+
+/* No comment provided by engineer. */
+"Username" = "Benutzername";
+
+/* No comment provided by engineer. */
+"Ämter" = "Ämter";
+
+/* No comment provided by engineer. */
+"Not Available" = "Nicht verfügbar";
+
+/* No comment provided by engineer. */
+"Error" = "Fehler";
+
+/* No comment provided by engineer. */
+"Delete" = "Löschen";
+
+/* No comment provided by engineer. */
+"Update" = "Aktualisieren";
+
+
+/* No comment provided by engineer. */
+"Description" = "Beschreibung";
+
+/* No comment provided by engineer. */
+"Ends" = "Endet";
+
+/* No comment provided by engineer. */
+"Starts" = "Beginnt";
+
+/* No comment provided by engineer. */
+"Title" = "Titel";
+
+/* No comment provided by engineer. */
+"abort" = "abstellen";
+
+/* No comment provided by engineer. */
+"create" = "erstellen";
+
+/* No comment provided by engineer. */
+"Cancel" = "Abbrechen";
+
+/* No comment provided by engineer. */
+"Participate" = "Teilnehmen";
+
+/* No comment provided by engineer. */
+"days ago" = "Tage zuvor";
+
+/* No comment provided by engineer. */
+"days from today" = "Tage ab heute";
+
+/* No comment provided by engineer. */
+"Tomorrow" = "Morgen";
+
+/* No comment provided by engineer. */
+"Today" = "Heute";
+
+/* No comment provided by engineer. */
+"Yesterday" = "Gestern";
+
+/* No comment provided by engineer. */
+"Dismiss" = "Ausblenden";
+
+/* No comment provided by engineer. */
+"Show List" = "Liste zeigen";
+
+/* No comment provided by engineer. */
+"Connected" = "Verbunden";
+
+/* No comment provided by engineer. */
+"Open box" = "Kasten öffnen";
+
+/* No comment provided by engineer. */
+"Pay" = "Bezahlen";
+
+/* No comment provided by engineer. */
+"Add comment" = "Kommentar hinzufügen";
+
+/* No comment provided by engineer. */
+"Save address" = "Adresse speichern";
+
+/* No comment provided by engineer. */
+"Last name" = "Nachname";
+
+/* No comment provided by engineer. */
+"First name" = "Vorname";
+
+/* No comment provided by engineer. */
+"Apartment" = "Apartment";
+
+/* No comment provided by engineer. */
+"New number" = "Neue Nummer";
+
+/* No comment provided by engineer. */
+"New number repeated" = "Neue Nummer wiederholen";
+
+/* No comment provided by engineer. */
+"Apply" = "Anwenden";
+
+/* No comment provided by engineer. */
+"E-Mail" = "E-Mail";
+
+/* No comment provided by engineer. */
+"New mail" = "Neue E-Mail";
+
+/* No comment provided by engineer. */
+"New mail repeated" = "Neue E-Mail wiederholen";
+
+/* No comment provided by engineer. */
+"Old password" = "Altes Passwort";
+
+/* No comment provided by engineer. */
+"New password" = "Neues Passwort";
+
+/* No comment provided by engineer. */
+"New password repeated" = "Neues Passwort wiederholen";
+
+/* No comment provided by engineer. */
+"Settings" = "Einstellungen";
+
+/* No comment provided by engineer. */
+"Edit account" = "Konto bearbeiten";
+
+/* No comment provided by engineer. */
+"F.A.Q Website" = "Häufig gestellte Fragen";
+
+/* No comment provided by engineer. */
+"Fileserver" = "Fileserver";
+
+/* No comment provided by engineer. */
+"Dormitory files" = "Dateien des Wohnheims";
+
+/* No comment provided by engineer. */
+"Sign out" = "Abmelden";
+
+/* No comment provided by engineer. */
+"Logout of your account" = "Konto entfernen";
+
+/* No comment provided by engineer. */
+"Link copied" = "Link kopiert";
+
+/* No comment provided by engineer. */
+"to clipboard" = "in die Zwischenablage";
+
+/* No comment provided by engineer. */
+"Action failed" = "Fehlgeschlagen";
+
+/* No comment provided by engineer. */
+"Alert removed" = "Alarm entfernt";
+
+/* No comment provided by engineer. */
+"Alert set" = "Alarm erstellt";
+
+/* No comment provided by engineer. */
+"removed" = "entfernt";
+
+/* No comment provided by engineer. */
+"Participation" = "Teilnahme";
+
+/* No comment provided by engineer. */
+"added" = "hinzugefügt";
+
+/* No comment provided by engineer. */
+"updated" = "aktualisiert";
+
+/* No comment provided by engineer. */
+"Event" = "Event";
+
+/* No comment provided by engineer. */
+"Device" = "Gerät";
+
+/* No comment provided by engineer. */
+"deleted" = "gelöscht";
+
+/* No comment provided by engineer. */
+"Please fill in all text fields." = "Bitte fülle alle Textfelder aus.";
+
+/* No comment provided by engineer. */
+"Please visit the intranet website for instructions on resetting your password." = "Bitte besuche die Intranet website für Instruktionen zum Zurücksetzen deines Passworts.";
+
+/* No comment provided by engineer. */
+"Reset" = "Zurücksetzen";
+
+/* No comment provided by engineer. */
+"Bad login!" = "Falscher Login!";
+
+/* No comment provided by engineer. */
+"Please check username and password." = "Bitte überprüfe Nutzernamen und Passwort.";
+
+/* No comment provided by engineer. */
+"Back" = "Zurück";
+
+/* No comment provided by engineer. */
+"The event does not seem to exist." = "Das Event scheint nicht zu existieren.";
+
+/* No comment provided by engineer. */
+"Are you sure?" = "Bist du sicher?";
+
+/* No comment provided by engineer. */
+"This action cannot be undone" = "Diese Aktion kann nicht rückgängig gemacht werden";
+
+/* No comment provided by engineer. */
+"confirmed" = "bestätigt";
+
+/* No comment provided by engineer. */
+"declined" = "abgelehnt";
+
+/* No comment provided by engineer. */
+"Are you sure that the account of %first name% %last name% should be topped up with %amount% EUR?" = "Bist du sicher, dass das Konto von %first name% %last name% mit %amount% EUR aufgeladen werden soll?";
+
+/* No comment provided by engineer. */
+"opened" = "geöffnet";
+
+/* No comment provided by engineer. */
+"Box" = "Kasten";
+
+/* No comment provided by engineer. */
+"sent" = "gesendet";
+
+/* No comment provided by engineer. */
+"Money" = "Geld";
+
+/* No comment provided by engineer. */
+"Sent with the HHG App" = "Mit der HHG App gesendet";
+
+/* No comment provided by engineer. */
+"Please provide at least a first name and make sure you supply a valid email address and phone number." = "Bitte gib mindestens einen Vornamen an und stelle sicher, dass eine gültige E-Mail-Adresse und Telefonnummer vorliegt.";
+
+/* No comment provided by engineer. */
+"No access" = "Kein Zugriff";
+
+/* No comment provided by engineer. */
+"The app does not have write access to your contact book. To export resident data, you must allow access in the device settings." = "Die App hat keinen Schreibzugriff auf dein Kontaktbuch. Um Bewohnerdaten zu exportieren musst du den Zugriff in den Geräteeinstellungen erlauben.";
+
+/* No comment provided by engineer. */
+"changed" = "geändert";
+
+/* No comment provided by engineer. */
+"The new phone numbers do not match, check the spelling." = "Die neuen Telefonnummern stimmen nicht überein, überprüfe die Schreibweise.";
+
+/* No comment provided by engineer. */
+"The new phone number does not seem to be real." = "Die neue Telefonnummer scheint nicht echt zu sein.";
+
+/* No comment provided by engineer. */
+"The new email addresses do not match, check the spelling." = "Die neuen E-Mail Adressen stimmen nicht überein, überprüfe die Schreibweise.";
+
+/* No comment provided by engineer. */
+"The new e-mail address does not seem to be real." = "Die neue E-Mail Addresse scheint nicht echt zu sein.";
+
+/* No comment provided by engineer. */
+"The old password seems to be wrong." = "Das alte Passwort scheint falsch zu sein.";
+
+/* No comment provided by engineer. */
+"The new passwords do not match, check the spelling." = "Die neuen Passwörter stimmen nicht überein, überprüfe die Schreibweise.";
+
+/* No comment provided by engineer. */
+"New passwords must be at least 8 characters long and contain a capital letter and a number." = "Neue Passwörter müssen mindestens 8 Zeichen lang sein sowie einen Großbuchstaben und eine Nummer enthalten.";
+
+/* No comment provided by engineer. */
+"The MAC address does not seem to be real." = "Die MAC Addresse scheint nicht echt zu sein.";
+
+/* No comment provided by engineer. */
+"successful" = "erfolgreich";
+
+/* No comment provided by engineer. */
+"You paid_singular" = "Du hast";
+
+/* No comment provided by engineer. */
+"You paid_plural" = "Ihr habt";
+
+/* No comment provided by engineer. */
+"You received_plural" = "Euch wurden";
+
+/* No comment provided by engineer. */
+"You received_singular" = "Dir wurden";
+
+/* No comment provided by engineer. */
+"to a former resident" = "an einen ehemaligen Bewohner überwiesen";
+
+/* No comment provided by engineer. */
+"to %first name% %last name%" = "an %first name% %last name% überwiesen";
+
+/* No comment provided by engineer. */
+"to the Bar" = "an die Bar gezahlt";
+
+/* No comment provided by engineer. */
+"for the use of the printer" = "für Druckernutzung gezahlt";
+
+/* No comment provided by engineer. */
+"to the Tutors" = "an die Tutoren gezahlt";
+
+/* No comment provided by engineer. */
+"to the House Speakers" = "an die Haussprecher gezahlt";
+
+/* No comment provided by engineer. */
+"to the Bank" = "an die Bank überwiesen";
+
+/* No comment provided by engineer. */
+"from a former resident" = "von einem ehemaligen Bewohner überwiesen";
+
+/* No comment provided by engineer. */
+"from %first name% %last name%" = "von %first name% %last name% überwiesen";
+
+/* No comment provided by engineer. */
+"from the Barteam" = "von dem Barteam überwiesen";
+
+/* No comment provided by engineer. */
+"from the Admins" = "von den Admins überwiesen";
+
+/* No comment provided by engineer. */
+"from the Tutors" = "von den Tutoren überwiesen";
+
+/* No comment provided by engineer. */
+"from the House Speakers" = "von den Haussprechern überwiesen";
+
+/* No comment provided by engineer. */
+"from the Bank" = "von der Bank überwiesen";
+
+/* No comment provided by engineer. */
+"Experimental" = "Experimentell";
+
+/* No comment provided by engineer. */
+"You may enable experimental features which are currently still in development." = "Du kannst experimentelle Funktionen aktivieren, die derzeit noch in der Entwicklung sind.";
+
+/* No comment provided by engineer. */
+"Beverage Bookings" = "Getränkebuchungen";
+
+/* No comment provided by engineer. */
+"Bookings for beverage consumption are displayed as swipable tally sheets." = "Die Buchungen für Getränkeabrechnungen werden in Form von interaktiven Strichlisten angezeigt.";
+
+/* No comment provided by engineer. */
+"Bookings for beverage consumption will display the booking comment." = "Bei Buchungen für den Konsum von Getränken wird der Buchungskommentar angezeigt.";
+
+/* No comment provided by engineer. */
+"Thank you for already serving as %amt%. You still have the possibility to get involved in the following offices." = "Vielen Dank, dass du bereits als %amt% tätig bist. Du hast weiterhin die Möglichkeit dich zusätzlich in folgenden Ämtern zu engagieren.";
+
+/* No comment provided by engineer. */
+"You have the opportunity to get involved in the following offices to enrich dorm life." = "Du hast die Möglichkeit dich in folgenden Ämtern zu engagieren, um das Wohnheimsleben zu bereichern.";
+
+/* No comment provided by engineer. */
+"As a house speaker you are \"the girl for everything\" and are basically available for all questions and problems concerning the dormitory. Your main tasks include the organization of the Newcomer's Evening, the Resident Council, the General Assembly and the semi-annual Resident Party (Summer Party and Christmas Party). Furthermore, you facilitate cash deposits for residents." = "Als Haussprecher bist du \"Mädchen für alles\" und stehst grundsätzlich zur Verfügung bei sämtlichen Fragen und Problemen rund um das Wohnheim. Zu deinen Hauptaufgaben zählt die Organisation des Neueinzüglerabends, Heimrats, der Vollversammlung sowie der halbjährlichen Wohnheimsfeier (Sommerfest und Weihnachtsfeier). Weiterhin ermöglichst du Bargeld Einzahlungen für Bewohner.";
+
+/* No comment provided by engineer. */
+"The bar team consists of several people who together perform the following tasks. The main duty is the organization and carrying out of bar evenings during the semester. Furthermore, the bar team is responsible for stocking the fridge and takes care of the purchase of drinks and other bar and kitchen utensils. In addition to accepting cash deposits, the bar team facilitates the (private) rental of the bar and kitchen." = "Das Barteam besteht aus mehreren Personen, welche zusammen folgenden Aufgaben übernehmen. Die Hauptaufgabe besteht in der Organisation und Umsetzung von Barabenden während des Semesters. Weiterhin ist das Barteam für das Auffüllen des Kühlschranks zuständig und kümmert sich um den Einkauf der Getränke sowie weiteren Bar und Küchenutensilien. Neben der Entgegennahme von Bargeld Einzahlungen ermöglich das Barteam die (private) Vermietung der Bar und Küche.";
+
+/* No comment provided by engineer. */
+"As a tutor, you organize various tutoring activities during the lecture period. Together with another tutor, you plan the activities at the beginning of the semester and create a tutor program for the showcase. Tutor activities can be very varied, ranging from a table football tournament and a joint Escape Room to a collective ski trip." = "Als Tutor organisierst du verschiedene Tutoraktionen während der Vorlesungszeit. Zusammen mit einem weiteren Tutor, planst du am Anfang des Semesters die Aktionen und erstellst hierfür ein Tutorprogramm für den Schaukasten. Tutoraktionen können dabei sehr abwechslungsreich vom Kickertunier über einen gemeinsamen Escape-Room bis zur kollektiven Skifahrt reichen.";
+
+/* No comment provided by engineer. */
+"The admin team consists of several people who basically take care of the information technology in the dormitory. This includes the administration of the dormitory network and the printer as well as the further development of the intranet. In addition, the team works independently on new projects to improve and constantly expand the digital dorm life." = "Das Admin Team besteht aus mehreren Personen, die sich grundsätzlich um die Betreuung der Informationstechnik im Wohnheim kümmern. Dazu zählen unter anderem die Verwaltung des Wohnheimsnetzes und des Druckers sowie die Weiterentwicklung des Intranetzes. Zusätzlich arbeitet das Team selbstständig an neuen Projekten, um das digitale Wohnheimsleben zu verbessern und stetig erweitern.";
+
+/* No comment provided by engineer. */
+"The two residence cash auditors are responsible for checking the accounting entries of residence accounts. This audit takes place once during the semester following the Annual General Meeting and marks the close of funds for the current semester." = "Die zwei Kassenprüfer des Wohnheims sind verantwortlich für die Prüfung der Buchungen von Wohnheimskonten. Diese Prüfung findet einmalig im Semester nach der Vollversammlung statt und markiert den Kassenschluss für das aktuelle Semester.";
+
+/* No comment provided by engineer. */
+"The cinema team consists of several film enthusiasts who organize cinema evenings during the lecture period. For this purpose, they make a suitable selection of films and provide the residents with free popcorn." = "Das Kinoteam besteht aus mehreren filmbegeisterten Personen, welche während der Vorlesungszeit Kinoabende organisieren. Hierfür treffen sie eine geeignete Filmauswahl und versorgen die Bewohner mit kostenlosem Popcorn.";
+
+/* No comment provided by engineer. */
+"The grill keeper takes care of the maintenance and availability of the common grill during the summer semester. Together with the bar team he takes care of the supply of barbecue charcoal, which may be used by the residents for non-private parties." = "Der Grillwart kümmert sich während des Sommersemesters um den Erhalt und die Verfügbarkeit des gemeinsamen Grills. Zusammen mit dem Barteam kümmert er sich um die Versorgung mit Grillkohle, welche für nicht private Feiern von den Bewohnern genutzt werden darf.";
+
+/* No comment provided by engineer. */
+"The assistant janitor is available for minor repairs (for example, changing a light bulb). The person should also be available on weekends in case the actual janitor is not available." = "Der Hilfshausmeister steht für kleinere Reperaturen (zum Beispiel dem Auswechseln einer Glühbirne) zur Verfügung. Die Person sollte auch an Wochenenden ansprechbar sein, falls der eigentliche Hausmeister nicht verfügbar ist.";
+
+/* No comment provided by engineer. */
+"The garden team maintains the vegetable patch of the dormitory during the summer semester. They decide which herbs and vegetables should be planted." = "Das Gartenteam pflegt während des Sommersemesters das Gemüsebeet des Wohnheims. Dabei entscheidet es welche Kräuter und Gemüsesorten angepflanzt werden sollen.";
+
+/* No comment provided by engineer. */
+"You are the contact person of the dormitory for bicycle repairs. For this you are available with suitable tools and know-how." = "Du bist der Ansprechpartner des Wohnheims für Fahrradreparaturen. Hierfür stehst du mit passendem Werkzeug sowie Know-How zur Verfügung.";
+
+/* No comment provided by engineer. */
+"As the piano keeper, you will take care of the maintenance of the piano in the bar." = "Als Klavierwart kümmerst du dich um die Instandhaltung des Klaviers in der Bar.";
+
+/* No comment provided by engineer. */
+"You are the dormitory's contact for first aid and have a hand for treating minor injuries." = "Du bist Ansprechpartner des Wohnheims für Erste Hilfe und hast ein Händchen für die Behandlung kleiner Verletzungen.";
+
+/* No comment provided by engineer. */
+"As part of the bar support, you will help the bar team with the realization of bar evenings. Especially mixing cocktails is one of the main tasks of this position." = "Als Teil des Barsupports hilfst du dem Barteam bei der Umsetzung von Barabenden. Besonders das Mischen von Cocktails gehört zu den Hauptaufgaben dieses Amtes.";
+
+/* No comment provided by engineer. */
+"As part of the selection committee you evaluate applications for the dormitory. You decide which people could integrate well into the existing community and enrich the dormitory life." = "Als Teil des Auswahlausschusses bewertest du Bewerbungen für das Wohnheim. Du entscheidest welche Personen sich gut in die existierende Gemeinschaft integrieren könnten und das Wohnheimsleben bereichern.";
+
+
